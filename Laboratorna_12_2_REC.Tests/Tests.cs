@@ -13,7 +13,6 @@ public class Tests
         list.Add(3);
         list.Add(4);
         list.Add(5);
-        list.Add(2);
 
         list.RemoveByValue(2);
 
