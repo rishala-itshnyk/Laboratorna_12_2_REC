@@ -87,7 +87,6 @@ public class Program // Оголошення класу Program
         list.Add(3);
         list.Add(4);
         list.Add(5);
-        list.Add(2);
 
         Console.WriteLine("Список елементів:"); // Виведення тексту на екран
         list.Print(); // Виведення списку на екран
